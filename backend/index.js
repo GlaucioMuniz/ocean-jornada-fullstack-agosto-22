@@ -1,7 +1,7 @@
 const express = require("express");
 const { MongoClient } = require("mongodb");
 
-const url = "mongodb+srv://admin:Ou0mp77kpbSUV4eg@cluster0.bneddzk.mongodb.net/mongodb://localhost:27017";
+const url = "mongodb+srv://admin:Ou0mp77kpbSUV4eg@cluster0.bneddzk.mongodb.net";
 // const url = "mongodb+srv://admin:LdQHrR3iAM9u4Mtw@cluster0.ih1f4.mongodb.net";
 const dbName = "jornada-fullstack-agosto-22";
 
