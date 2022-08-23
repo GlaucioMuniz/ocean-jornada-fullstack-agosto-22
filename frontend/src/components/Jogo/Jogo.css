@@ -10,3 +10,24 @@
   top: 30px;
   left: 50%;
 }
+
+.cano {
+
+  width: 50px;
+
+  position: absolute;
+  bottom: 30px;
+  right: 50px;s
+
+}
+
+.mario {
+
+  height: 100px;
+
+  position: absolute;
+  bottom: 30px;
+  left: 50px;
+
+
+}
