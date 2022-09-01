@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "name":"ocean-jornada-fullstack-agosto-22",
     "version":"1.0.0",
@@ -6,3 +7,12 @@
     }
 
 }
+=======
+{
+    "name": "ocean-jornada-fullstack-agosto-22",
+    "version": "1.0.0",
+    "scripts": {
+        "postinstall": "npm install --prefix backend"
+    }
+}
+>>>>>>> 2781985ca5d2b34791d05cb4df37a22037ce05f7
